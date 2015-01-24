@@ -22,9 +22,7 @@ backgroundOrder:
 - 48
 backgroundStates:
 - 11
-- 12
 - 13
-- 14
 - 44
 - 52
 columnOrder:
@@ -4253,7 +4251,7 @@ stateColorsNameList:
 - - background_10
   - white
 - - background_12
-  - green
+  - darkBlue
 - - background_14
   - darkTurquoise
 - - background_16
@@ -4278,8 +4276,12 @@ stateColorsNameList:
   - orange
 - - background_9
   - orange
+- - flag_12
+  - purple
 - - flag_14
-  - darkTurquoise
+  - indigo
+- - flag_45
+  - darkBlue
 tabSetup:
 - - 0
   - - - bracket
@@ -4317,8 +4319,6 @@ tabSetup:
     - - overview
       - '^ extra: podsaver (!'
 userSettings:
-- - applyOnlyToShips
-  - false
 - - hideCorpTicker
   - true
 - - overviewBroadcastsToTop
