@@ -27,6 +27,7 @@ backgroundStates:
 - 52
 columnOrder:
 - ICON
+- TAG
 - DISTANCE
 - NAME
 - TYPE
@@ -34,7 +35,6 @@ columnOrder:
 - ALLIANCE
 - VELOCITY
 - ANGULARVELOCITY
-- TAG
 - FACTION
 - MILITIA
 - SIZE
@@ -78,10 +78,10 @@ flagStates:
 overviewColumns:
 - ALLIANCE
 - ANGULARVELOCITY
-- CORPORATION
 - DISTANCE
 - ICON
 - NAME
+- TAG
 - TYPE
 - VELOCITY
 presets:
