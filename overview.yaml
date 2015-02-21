@@ -538,6 +538,7 @@ presets:
         - 1202
         - 1283
         - 1305
+        - 1310
 - - '# hostile: fighters/fibos'
   - - - filteredStates
       - - 11
@@ -876,6 +877,7 @@ presets:
         - 1211
         - 1212
         - 1247
+        - 1310
 - - '+ pve: mining'
   - - - alwaysShownStates
       - []
@@ -1192,6 +1194,7 @@ presets:
         - 1286
         - 1287
         - 1305
+        - 1310
 - - '# hostile: logistics'
   - - - filteredStates
       - - 11
@@ -1464,6 +1467,7 @@ presets:
         - 1276
         - 1283
         - 1305
+        - 1310
 - - '# bashing structures'
   - - - alwaysShownStates
       - []
@@ -1674,6 +1678,7 @@ presets:
         - 1286
         - 1287
         - 1307
+        - 1310
 - - '% friendly: command ships'
   - - - filteredStates
       - - 13
@@ -2034,6 +2039,7 @@ presets:
         - 1202
         - 1249
         - 1283
+        - 1310
 - - '+ pve: salvage/loot'
   - - - filteredStates
       - - 21
@@ -2338,6 +2344,7 @@ presets:
         - 1286
         - 1287
         - 1305
+        - 1310
 - - '# hostile: supercarriers'
   - - - filteredStates
       - - 11
@@ -2643,6 +2650,7 @@ presets:
         - 1286
         - 1287
         - 1305
+        - 1310
 - - '% friendly: dictors'
   - - - filteredStates
       - - 13
@@ -2902,6 +2910,7 @@ presets:
         - 1201
         - 1202
         - 1283
+        - 1310
 - - '* navigation w playe'
   - - - alwaysShownStates
       - []
@@ -3127,6 +3136,7 @@ presets:
         - 1288
         - 1305
         - 1307
+        - 1310
 - - ~ default brackets
   - - - alwaysShownStates
       - []
@@ -3354,6 +3364,7 @@ presets:
         - 1249
         - 1283
         - 1305
+        - 1310
 - - '^ extra: align points'
   - - - filteredStates
       - - 13
@@ -3809,6 +3820,7 @@ presets:
         - 1106
         - 1149
         - 1247
+        - 1310
 - - '% friendly: carriers'
   - - - filteredStates
       - - 13
@@ -4152,6 +4164,7 @@ presets:
         - 1287
         - 1305
         - 1307
+        - 1310
 - - '^ extra: podsaver (!'
   - - - alwaysShownStates
       - []
